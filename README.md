@@ -1,4 +1,4 @@
-# GPT Bot Manager [![Beta](https://img.shields.io/badge/status-beta-yellow)]https://github.com/UsmangrowXAi/panko-gpt/blob/master/README.md#community-) [![Docker](https://img.shields.io/badge/Docker-Ready-blue)]https://github.com/UsmangrowXAi/panko-gpt/blob/master/README.md#community-) [![License](https://img.shields.io/badge/license-MIT-green)]https://github.com/UsmangrowXAi/panko-gpt/blob/master/README.md#community-)
+# GPT Bot Manager [![Beta](https://img.shields.io/badge/status-beta-yellow)](https://github.com/UsmangrowXAi/panko-gpt/blob/master/README.md#community-) [![Docker](https://img.shields.io/badge/Docker-Ready-blue)](https://github.com/UsmangrowXAi/panko-gpt/blob/master/README.md#community-) [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/UsmangrowXAi/panko-gpt/blob/master/README.md#community-)
 
 ## _*Currently in beta*_
 
