@@ -22,19 +22,19 @@ Deploy and manage bots across various messaging platforms, starting with Discord
 ##### Bot functions
 ![Bot functions](https://catalinberta.com/files/panko/panko-gpt/screenshots/05-functions.png)
 
-## ![Features](https://img.shields.io/badge/Features-8E44AD?logo=features&logoColor=white) Features
+## Features ![Features](https://img.shields.io/badge/Features-8E44AD?logo=features&logoColor=white) 
 - **User-Friendly Interface**: Deploy custom bots for Discord and Telegram (and soon other platforms) without the need for deep technical knowledge.
 - **Customizable Behavior**: Fine-tune your bots' responses and actions using simple forms.
 - **Contextual Bots**: Create bots that understand and respond based on context, enhancing their utility.
 - **Configurable Tools**: Extend your bot’s capabilities with additional functions, such as internet access, time-based responses, etc.
 
-## ![Planned Features](https://img.shields.io/badge/Planned%20Features-F39C12?logo=rocket&logoColor=white) Planned Features (or already WIP)
+## Planned Features (or already WIP)  ![Planned Features](https://img.shields.io/badge/Planned%20Features-F39C12?logo=rocket&logoColor=white)
 
 - **Expanded Functionality**: More tools to enhance GPT bot capabilities.
 - **Skill Development**: Pre-built skills for teaching, language practice, coding assistance, and more.
 - **Vector Search Optimization**: Transition vector search from Atlas Cloud to local PostgreSQL for better performance.
   
-## ![Prerequisites](https://img.shields.io/badge/Prerequisites-0D6EFD?logo=docker&logoColor=white) Prerequisites
+## Prerequisites  ![Prerequisites](https://img.shields.io/badge/Prerequisites-0D6EFD?logo=docker&logoColor=white)
 
 Before you begin, ensure you have met the following requirements:
 
@@ -64,7 +64,7 @@ To install and run the application locally, follow these steps:
 
 4. Fill in the missing MongoDB Atlas environment variables in `docker-compose.yml`.
 
-### ![For Development](https://img.shields.io/badge/For%20Development-FF5733?logo=visual-studio-code&logoColor=white) For Development
+### For Development  ![For Development](https://img.shields.io/badge/For%20Development-FF5733?logo=visual-studio-code&logoColor=white) 
 
 1. Build the development environment:
    ```bash
@@ -76,7 +76,7 @@ To install and run the application locally, follow these steps:
    docker compose up dev
    ```
 
-## ![For Production](https://img.shields.io/badge/For%20Production-28A745?logo=heroku&logoColor=white) For Production
+### For Production  ![For Production](https://img.shields.io/badge/For%20Production-28A745?logo=heroku&logoColor=white)
 
 1. Build the production environment:
    ```bash
@@ -88,24 +88,24 @@ To install and run the application locally, follow these steps:
    docker compose up prod
    ```
 
-## Running the Application
+### Running the Application
 
 - **Development**: Open your browser and go to [http://localhost:5003](http://localhost:5003) (local server with auto-reload).
 - **Production**: Open your browser and go to [http://localhost:5002](http://localhost:5002).
 
-## ![Community](https://img.shields.io/badge/Community-7289DA?logo=discord&logoColor=white) Community
+## Community ![Community](https://img.shields.io/badge/Community-7289DA?logo=discord&logoColor=white) 
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?logo=discord&logoColor=white)](https://eq6w.short.gy/discord-invite-github)
 
 Join our Discord community to connect with other users, share ideas, and get support.
 
-### ⭐️ Other links
+## ⭐️ Other links
 - [Docker](https://hub.docker.com/repository/docker/catalinbertadev/panko-gpt)
 - [Unraid](https://unraid.net/community/apps?q=panko-gpt)
 - [Me](https://catalinberta.com)
 
-### 🤝 Contributing
+## 🤝 Contributing
 Contributions are very welcome! Whether it's adding new features, improving documentation, or reporting bugs, please feel free to make a pull request or open an issue.
 
-### 📃 License
+## 📃 License
 This project is licensed under the MIT License.
