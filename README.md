@@ -93,7 +93,7 @@ To install and run the application locally, follow these steps:
 - **Development**: Open your browser and go to [http://localhost:5003](http://localhost:5003) (local server with auto-reload).
 - **Production**: Open your browser and go to [http://localhost:5002](http://localhost:5002).
 
-## Community ![Community](https://img.shields.io/badge/Community-7289DA?logo=discord&logoColor=white) 
+## Community ![Community](https://img.shields.io/badge/Community-7289DA?logo=discord&logoColor=white)
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?logo=discord&logoColor=white)](https://eq6w.short.gy/discord-invite-github)
 
