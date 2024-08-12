@@ -12,7 +12,8 @@ Deploy and manage bots across various messaging platforms, starting with Discord
 - **Contextual Understanding**: Define the scope and context in which your bot operates.
 - **Function Tools**: Equip your bots with configurable tools like URL access, time fetching, and more.
 
-### Screenshots
+### [![Screenshots](https://img.shields.io/badge/Screenshots-E74C3C?logo=image&logoColor=white)](https://github.com/UsmangrowXAi/panko-gpt/blob/master/README.md#community-) Screenshots
+
 ##### Homepage - Bot list
 ![Homepage - Bot list](https://catalinberta.com/files/panko/panko-gpt/screenshots/01-homepage.png)
 ##### Bot creation form
@@ -22,19 +23,19 @@ Deploy and manage bots across various messaging platforms, starting with Discord
 ##### Bot functions
 ![Bot functions](https://catalinberta.com/files/panko/panko-gpt/screenshots/05-functions.png)
 
-## Features ![Features](https://img.shields.io/badge/Features-8E44AD?logo=features&logoColor=white) 
+## [![Features](https://img.shields.io/badge/Features-8E44AD?logo=features&logoColor=white)](https://github.com/UsmangrowXAi/panko-gpt/blob/master/README.md#community-) Features
 - **User-Friendly Interface**: Deploy custom bots for Discord and Telegram (and soon other platforms) without the need for deep technical knowledge.
 - **Customizable Behavior**: Fine-tune your bots' responses and actions using simple forms.
 - **Contextual Bots**: Create bots that understand and respond based on context, enhancing their utility.
 - **Configurable Tools**: Extend your bot’s capabilities with additional functions, such as internet access, time-based responses, etc.
 
-## Planned Features (or already WIP)  ![Planned Features](https://img.shields.io/badge/Planned%20Features-F39C12?logo=rocket&logoColor=white)
+## [![Planned Features](https://img.shields.io/badge/Planned%20Features-F39C12?logo=rocket&logoColor=white)](https://github.com/UsmangrowXAi/panko-gpt/blob/master/README.md#community-) Planned Features (or already WIP)
 
 - **Expanded Functionality**: More tools to enhance GPT bot capabilities.
 - **Skill Development**: Pre-built skills for teaching, language practice, coding assistance, and more.
 - **Vector Search Optimization**: Transition vector search from Atlas Cloud to local PostgreSQL for better performance.
   
-## Prerequisites  ![Prerequisites](https://img.shields.io/badge/Prerequisites-0D6EFD?logo=docker&logoColor=white)
+## [![Prerequisites](https://img.shields.io/badge/Prerequisites-0D6EFD?logo=docker&logoColor=white)](https://github.com/UsmangrowXAi/panko-gpt/blob/master/README.md#community-) Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
@@ -64,7 +65,7 @@ To install and run the application locally, follow these steps:
 
 4. Fill in the missing MongoDB Atlas environment variables in `docker-compose.yml`.
 
-### For Development  ![For Development](https://img.shields.io/badge/For%20Development-FF5733?logo=visual-studio-code&logoColor=white) 
+### [![For Development](https://img.shields.io/badge/For%20Development-FF5733?logo=visual-studio-code&logoColor=white)](https://github.com/UsmangrowXAi/panko-gpt/blob/master/README.md#community-) For Development
 
 1. Build the development environment:
    ```bash
@@ -76,7 +77,7 @@ To install and run the application locally, follow these steps:
    docker compose up dev
    ```
 
-### For Production  ![For Production](https://img.shields.io/badge/For%20Production-28A745?logo=heroku&logoColor=white)
+### [![For Production](https://img.shields.io/badge/For%20Production-28A745?logo=heroku&logoColor=white)](https://github.com/UsmangrowXAi/panko-gpt/blob/master/README.md#community-) For Production
 
 1. Build the production environment:
    ```bash
@@ -88,12 +89,12 @@ To install and run the application locally, follow these steps:
    docker compose up prod
    ```
 
-### Running the Application
+### [![Running the Application](https://img.shields.io/badge/Running%20the%20Application-3498DB?logo=server&logoColor=white)](https://github.com/UsmangrowXAi/panko-gpt/blob/master/README.md#community-) Running the Application
 
 - **Development**: Open your browser and go to [http://localhost:5003](http://localhost:5003) (local server with auto-reload).
 - **Production**: Open your browser and go to [http://localhost:5002](http://localhost:5002).
 
-## Community ![Community](https://img.shields.io/badge/Community-7289DA?logo=discord&logoColor=white)
+## [![Community](https://img.shields.io/badge/Community-7289DA?logo=discord&logoColor=white)](https://github.com/UsmangrowXAi/panko-gpt/blob/master/README.md#community-) Community
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?logo=discord&logoColor=white)](https://eq6w.short.gy/discord-invite-github)
 
