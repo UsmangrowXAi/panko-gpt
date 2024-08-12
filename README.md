@@ -14,14 +14,12 @@ Deploy and manage bots across various messaging platforms, starting with Discord
 
 ### [![Screenshots](https://img.shields.io/badge/Screenshots-E74C3C?logo=image&logoColor=white)](https://github.com/UsmangrowXAi/panko-gpt/blob/master/README.md#community-) Screenshots
 
-##### Homepage - Bot list
-![Homepage - Bot list](https://catalinberta.com/files/panko/panko-gpt/screenshots/01-homepage.png)
-##### Bot creation form
-![Bot creation form](https://catalinberta.com/files/panko/panko-gpt/screenshots/02-create-form.png)
-##### Bot vector search
-![Bot vector search](https://catalinberta.com/files/panko/panko-gpt/screenshots/03-create-vector-search.png)
-##### Bot functions
-![Bot functions](https://catalinberta.com/files/panko/panko-gpt/screenshots/05-functions.png)
+| Screenshot | Description |
+|------------|-------------|
+| ![Homepage - Bot list](https://catalinberta.com/files/panko/panko-gpt/screenshots/01-homepage.png) | Homepage showing the list of bots |
+| ![Bot creation form](https://catalinberta.com/files/panko/panko-gpt/screenshots/02-create-form.png) | Form used to create a new bot |
+| ![Bot vector search](https://catalinberta.com/files/panko/panko-gpt/screenshots/03-create-vector-search.png) | Interface for bot vector search |
+| ![Bot functions](https://catalinberta.com/files/panko/panko-gpt/screenshots/05-functions.png) | Overview of bot functions |
 
 ## [![Features](https://img.shields.io/badge/Features-8E44AD?logo=features&logoColor=white)](https://github.com/UsmangrowXAi/panko-gpt/blob/master/README.md#community-) Features
 - **User-Friendly Interface**: Deploy custom bots for Discord and Telegram (and soon other platforms) without the need for deep technical knowledge.
